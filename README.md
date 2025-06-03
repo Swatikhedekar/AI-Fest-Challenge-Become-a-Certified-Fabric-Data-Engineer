@@ -13,3 +13,11 @@ Audience Profile
 4) Implement a data warehouse with Microsoft Fabric
 5) Manage a Microsoft Fabric environment
 
+### Skills earned upon completion
+
+* Ingest Data with Dataflows Gen2 in Microsoft Fabric
+2)	Orchestrate processes and data movement with Microsoft Fabric
+3)	Use Apache Spark in Microsoft Fabric
+4)	Get started with Real-Time Intelligence in Microsoft Fabric
+5)	Use real-time eventstreams in Microsoft Fabric
+6)	Work with real-time data in a Microsoft Fabric eventhouse

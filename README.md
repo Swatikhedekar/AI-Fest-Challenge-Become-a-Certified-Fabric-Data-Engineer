@@ -7,8 +7,8 @@ his course includes ingesting and transforming data and securing, managing, and 
 Audience Profile
 
 ### Course Syllabus (It contains 5 Module)
-I.	Ingest data with Microsoft Fabric
-II.	Implement a Lakehouse with Microsoft Fabric
+I. Ingest data with Microsoft Fabric
+II. Implement a Lakehouse with Microsoft Fabric
 III.	Implement Real-Time Intelligence with Microsoft Fabric
 IV.	Implement a data warehouse with Microsoft Fabric
 V.	Manage a Microsoft Fabric environment
